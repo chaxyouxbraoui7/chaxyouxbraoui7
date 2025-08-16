@@ -1,7 +1,7 @@
-<div align="center" style="margin-bottom: 11px">
-  <img align="left" style="filter: brightness(0.25) contrast(1.25); margin-right: 11px;" width="75" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB2cDM0ZGt1MmVhbHp1ODl3aGt5bjgwb3lldG9obmc4cWpka3hwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UBzuNwevK7XPGkBdZ/giphy.gif">
+<div align="center">
+  <img align="left" style="filter: brightness(0.75); margin-right: 11px;" width="45" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB2cDM0ZGt1MmVhbHp1ODl3aGt5bjgwb3lldG9obmc4cWpka3hwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UBzuNwevK7XPGkBdZ/giphy.gif">
   <h1 style="display: inline-block; margin: 0; line-height: 1.2;">Hello 👋, I'm Ayoub Chabraoui</h1>
-  <img align="right" style="filter: brightness(0.25) contrast(1.25); margin-left: 11px;" width="75" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtb2NtYjVhYzB0ZnJtY2V6Z3I0eGx4dW5jZ2J4b2R0b2V6eWJ5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ES4Vcv8zWfIt2/giphy.gif">
+  <img align="right" style="filter: brightness(0.75); margin-left: 11px;" width="45" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtb2NtYjVhYzB0ZnJtY2V6Z3I0eGx4dW5jZ2J4b2R0b2V6eWJ5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ES4Vcv8zWfIt2/giphy.gif">
 </div>
 <div align="center"><p style="font-size: 18px; line-height: 1.75; margin: 0.25px;">
   <p style="font-size: 18px; line-height: 1.75; margin: 0.25px;">
