@@ -1,7 +1,7 @@
 <div align="center">
-  <img align="left" style="filter: brightness(0.75); margin-right: 11px;" width="45" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB2cDM0ZGt1MmVhbHp1ODl3aGt5bjgwb3lldG9obmc4cWpka3hwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UBzuNwevK7XPGkBdZ/giphy.gif">
+  <img align="left" style="filter: brightness(0.75); margin-right: 7px;" width="45" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB2cDM0ZGt1MmVhbHp1ODl3aGt5bjgwb3lldG9obmc4cWpka3hwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UBzuNwevK7XPGkBdZ/giphy.gif">
   <h1 style="display: inline-block; margin: 0; line-height: 1.2;">Hello 👋, I'm Ayoub Chabraoui</h1>
-  <img align="right" style="filter: brightness(0.75); margin-left: 11px;" width="45" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtb2NtYjVhYzB0ZnJtY2V6Z3I0eGx4dW5jZ2J4b2R0b2V6eWJ5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ES4Vcv8zWfIt2/giphy.gif">
+  <img align="right" style="filter: brightness(0.75); margin-left: 7px;" width="45" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtb2NtYjVhYzB0ZnJtY2V6Z3I0eGx4dW5jZ2J4b2R0b2V6eWJ5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ES4Vcv8zWfIt2/giphy.gif">
 </div>
 <div align="center"><p style="font-size: 18px; line-height: 1.75; margin: 0.25px;">
   <p style="font-size: 18px; line-height: 1.75; margin: 0.25px;">
@@ -50,6 +50,7 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 <img alt="UML" src="https://img.shields.io/badge/UML-181717?logo=uml&logoColor=white">
 <img alt="BASH" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white">
+<img alt="POWERSHELL" src="https://img.shields.io/badge/POWERSHELL-012456?logo=gnu-powershell&logoColor=black">
 <img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white">
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white">
@@ -93,8 +94,8 @@
   <a href="https://www.linkedin.com/in/ayoub-chabraoui/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
-  &nbsp;&nbsp; 
-  <a href="mailto:mr.ayoub.chabraoui@gmail.com">
+  &nbsp;&nbsp;
+  <a href="mailto:mr.ayoub.chabraoui@gmail.com" style="text-decoration: none; cursor: text;">
   <img src="https://img.shields.io/badge/Email-mr.ayoub.chabraoui%40gmail.com-blue.svg" alt="Email">
   </a>
 </p>
