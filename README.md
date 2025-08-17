@@ -58,7 +58,7 @@
 
 <h2>🌟 My Portfolio</h2>
     <p style="margin: 0.35rem 0 1rem;">
-      A responsive personal <a style="font-size: 18px; text-decoration: none; font-weight: bold"href="https://github.com/chaxyouxbraoui7/portfolio-website">portfolio</a> built with a clean dark theme UI/UX to showcase skills and projects.
+      A responsive personal <a style="font-size: 18px; text-decoration: none; font-weight: bold"href="https://chaxyouxbraoui7.github.io/portfolio/">portfolio</a> built with a clean dark theme UI/UX to showcase skills and projects.
     </p>
 
 <h2>📫 Connect with me</h2>
