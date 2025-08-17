@@ -23,13 +23,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=chaxyouxbraoui7&show_icons=true&locale=en&theme=github_dark" alt="chaxyouxbraoui7"/>
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaxyouxbraoui7&theme=github-dark&stroke=0000ff&ring=ffd700&border=0000ff&fire=ff0000&currStreakLabel=0000ff&border=ffffff&sideLabels=ffffff&dates=aaaaaa" alt="My GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaxyouxbraoui7&theme=github-dark&stroke=0000ff&ring=ff0000&border=0000ff&fire=ffd700&currStreakLabel=0000ff&border=ffffff&sideLabels=ffffff&dates=aaaaaa" alt="My GitHub Streak Stats"/>
   </p>
   <p>
   <img src="https://github-profile-trophy.vercel.app/?username=chaxyouxbraoui7&theme=darkhub&row=1&column=5&margin-w=10" alt="My GitHub Trophies"/>
   </p>
   <p>
-  <img style="filter: brightness(0.5) contrast(1); border: 2.5px solid white; border-radius: 0.25em" width="777" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FtOWptM3ppd2RwOGN1bXZxb3Fpd2E3MWJta3FvZHN0aDBwNWM5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
+  <img style="filter: brightness(0.5) contrast(1); border: 5px solid white; border-radius: 0.25em" width="777" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FtOWptM3ppd2RwOGN1bXZxb3Fpd2E3MWJta3FvZHN0aDBwNWM5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
   </p>
 </div>
 <hr>
@@ -50,43 +50,16 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 <img alt="UML" src="https://img.shields.io/badge/UML-181717?logo=uml&logoColor=white">
 <img alt="BASH" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white">
-<img alt="POWERSHELL" src="https://img.shields.io/badge/POWERSHELL-012456?logo=gnu-powershell&logoColor=black">
 <img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white">
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white">
 </p>
 </div>
 
-<h2>🌟 Featured Projects</h2>
-<ul>
-  <li>
-    <a style="font-size: 18px"href="https://github.com/chaxyouxbraoui7/student-presence-system"><strong>Student Attendance System (FYP)</strong></a><br>
-    <img alt="Python" src="https://img.shields.io/badge/Python-blue">
-    <img alt="PaddleOCR" src="https://img.shields.io/badge/OCR-PaddleOCR-lightgrey">
-    <img alt="[CC BY-NC 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg">
+<h2>🌟 My Portfolio</h2>
     <p style="margin: 0.35rem 0 1rem;">
-      Automates student attendance from ID images using OCR (PaddleOCR) with CSV validation and reports.
+      A responsive personal <a style="font-size: 18px; text-decoration: none; font-weight: bold"href="https://github.com/chaxyouxbraoui7/portfolio-website">portfolio</a> built with a clean dark theme UI/UX to showcase skills and projects.
     </p>
-  </li>
-  <!-- <li> -->
-    <!-- <a style="font-size: 18px"href="https://github.com/chaxyouxbraoui7/portfolio-website"><strong>Portfolio Website</strong></a><br> -->
-    <!-- <img alt="HTML5" src="https://img.shields.io/badge/HTML5-orange"> -->
-    <!-- <img alt="CSS3" src="https://img.shields.io/badge/CSS3-blue"> -->
-    <!-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow"> -->
-    <!-- <p style="margin: 0.35rem 0 1rem;"> -->
-      <!-- Responsive personal portfolio built with a clean UI/UX to showcase skills and projects. -->
-    <!-- </p> -->
-  <!-- </li> -->
-  <li>
-    <a style="font-size: 18px"href="https://github.com/chaxyouxbraoui7/green-panier"><strong>Mini E-commerce Website</strong></a><br>
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-red">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-blue">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow">
-    <p style="margin: 0.35rem 0 0.2rem;">
-      Small-basic e-commerce website where users can browse vegetables and fruits, register, log in, and proceed to pay, the admin can add, update and remove products.
-    </p>
-  </li>
-</ul>
 
 <h2>📫 Connect with me</h2>
 <div align="center">
