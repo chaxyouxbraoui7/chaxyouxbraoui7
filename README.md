@@ -1,15 +1,14 @@
 <div align="center">
-  <img align="left" style="filter: brightness(0.75); margin-right: 7px;" width="45" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB2cDM0ZGt1MmVhbHp1ODl3aGt5bjgwb3lldG9obmc4cWpka3hwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UBzuNwevK7XPGkBdZ/giphy.gif">
   <h1 style="display: inline-block; margin: 0; line-height: 1.2;">Hello 👋, I'm Ayoub Chabraoui</h1>
-  <img align="right" style="filter: brightness(0.75); margin-left: 7px;" width="45" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtb2NtYjVhYzB0ZnJtY2V6Z3I0eGx4dW5jZ2J4b2R0b2V6eWJ5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ES4Vcv8zWfIt2/giphy.gif">
+  <div align="center">
+  <p>
+  <img style="filter: brightness(0.5) contrast(1); margin-top: 22px; border: 5px solid white; border-radius: 0.25em" width="275" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTljMzk1dnA2Z2t6aGgxbThtdzU3NGxwMXNqN3JmaGk5aG5nZmZnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
+  </p>
 </div>
 <div align="center"><p style="font-size: 18px; line-height: 1.75; margin: 0.25px;">
   <p style="font-size: 18px; line-height: 1.75; margin: 0.25px;">
-  ℹ️ <strong>About Me:</strong> Recent graduate in Mathematics and Computer Science.<br>
-  <small style="font-size: 11px;">(Licence en Sciences Mathématiques, Informatique et Applications)</small><br>
-  💻 Junior Web Developer from <strong>Morocco 🇲🇦</strong>, passionate about building clean and user-friendly web applications.<br>
-  🚀 Currently expanding my skills in modern web technologies while seeking new opportunities.<br>
-  🌱 When not coding, I enjoy problem-solving challenges and exploring new frameworks.<br>
+  I am a <strong>Junior Developer</strong> from Morocco 🇲🇦.<br>
+  🌱 Currently expanding my skills in modern web technologies while seeking new opportunities.<br>
   <strong>Always eager to learn, contribute, and grow.</strong>
 </p>
   <p>
@@ -27,9 +26,6 @@
   </p>
   <p>
   <img src="https://github-profile-trophy.vercel.app/?username=chaxyouxbraoui7&theme=darkhub&row=1&column=5&margin-w=10" alt="My GitHub Trophies"/>
-  </p>
-  <p>
-  <img style="filter: brightness(0.5) contrast(1); border: 5px solid white; border-radius: 0.25em" width="777" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FtOWptM3ppd2RwOGN1bXZxb3Fpd2E3MWJta3FvZHN0aDBwNWM5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
   </p>
 </div>
 <hr>
