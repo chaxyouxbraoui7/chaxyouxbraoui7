@@ -52,12 +52,9 @@
 </p>
 </div>
 
-<h2>🌟 My Portfolio</h2>
-    <p style="margin: 0.35rem 0 1rem;">
-      A responsive personal <a style="font-size: 18px; text-decoration: none; font-weight: bold"href="https://chaxyouxbraoui7.github.io/portfolio/">portfolio</a> built with a clean dark theme UI/UX to showcase skills and projects.
-    </p>
+<h2>🌟 <a href="https://chaxyouxbraoui7.github.io/portfolio/">My Portfolio</a></h2>
 
-<h2>📫 Connect with me</h2>
+<h2>📫 Connect me</h2>
 <div align="center">
 <p>
   <a href="https://www.linkedin.com/in/ayoub-chabraoui/">
